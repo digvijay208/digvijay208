@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **portfloio**
 
-- 👨‍💻 All of my projects are available at [portfoliodigvijayw.netlify.app](portfoliodigvijayw.netlify.app)
+- 👨‍💻 All of my projects are available at [https://portfoliodigvijayw.netlify.app/]
 
 - 📫 How to reach me **digvijaywaghamode2004@gmail.com**
 
